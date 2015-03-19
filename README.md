@@ -1,2 +1,2 @@
-# TheGuideToGeatComparisons
+# TheGuideToGearComparisons
 Final Project - CS165
